@@ -1,0 +1,6 @@
+c:\users\congtoai\documents\visual studio 2015\Projects\Game5\Game5\bin\Debug\Game5.exe.config
+c:\users\congtoai\documents\visual studio 2015\Projects\Game5\Game5\bin\Debug\Game5.exe
+c:\users\congtoai\documents\visual studio 2015\Projects\Game5\Game5\bin\Debug\Game5.pdb
+c:\users\congtoai\documents\visual studio 2015\Projects\Game5\Game5\obj\Debug\Game5.csprojResolveAssemblyReference.cache
+c:\users\congtoai\documents\visual studio 2015\Projects\Game5\Game5\obj\Debug\Game5.exe
+c:\users\congtoai\documents\visual studio 2015\Projects\Game5\Game5\obj\Debug\Game5.pdb
